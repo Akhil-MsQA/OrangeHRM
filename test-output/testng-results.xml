@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="5" passed="0" failed="0" skipped="5">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-13T22:02:02 IST" name="Suite" finished-at="2024-10-13T22:02:02 IST" duration-ms="475">
+  <suite started-at="2024-10-13T22:11:08 IST" name="Suite" finished-at="2024-10-13T22:11:08 IST" duration-ms="425">
     <groups>
     </groups>
-    <test started-at="2024-10-13T22:02:02 IST" name="Test" finished-at="2024-10-13T22:02:02 IST" duration-ms="475">
+    <test started-at="2024-10-13T22:11:08 IST" name="Test" finished-at="2024-10-13T22:11:08 IST" duration-ms="425">
       <class name="OrangeHRMTestcases.TC_1_Admin_LoginTestCase">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:02:02 IST" name="setup" finished-at="2024-10-13T22:02:02 IST" duration-ms="2" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:11:08 IST" name="setup" finished-at="2024-10-13T22:11:08 IST" duration-ms="2" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -52,7 +52,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Adminlogintest()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:02:02 IST" name="Adminlogintest" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method signature="Adminlogintest()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:11:08 IST" name="Adminlogintest" finished-at="2024-10-13T22:11:08 IST" duration-ms="1" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.wd" is null]]>
@@ -90,13 +90,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Adminlogintest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:02:02 IST" name="teardown" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@a1cdc6d]" started-at="2024-10-13T22:11:08 IST" name="teardown" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_1_Admin_LoginTestCase -->
       <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:02:02 IST" name="setup" finished-at="2024-10-13T22:02:02 IST" duration-ms="1" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:11:08 IST" name="setup" finished-at="2024-10-13T22:11:08 IST" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -141,7 +141,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddDetails()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:02:02 IST" name="AddDetails" finished-at="2024-10-13T22:02:02 IST" duration-ms="1" status="SKIP">
+        <test-method signature="AddDetails()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:11:08 IST" name="AddDetails" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.wd" is null]]>
@@ -179,13 +179,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddDetails -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:02:02 IST" name="teardown" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@548e6d58]" started-at="2024-10-13T22:11:08 IST" name="teardown" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_4_AddEmployeeInfo -->
       <class name="OrangeHRMTestcases.TC_5_AddEmployeeQualification">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:02:02 IST" name="setup" finished-at="2024-10-13T22:02:02 IST" duration-ms="28" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:11:08 IST" name="setup" finished-at="2024-10-13T22:11:08 IST" duration-ms="23" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -230,7 +230,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EmployeeQualification()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:02:02 IST" name="EmployeeQualification" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method signature="EmployeeQualification()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:11:08 IST" name="EmployeeQualification" finished-at="2024-10-13T22:11:08 IST" duration-ms="2" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.wd" is null]]>
@@ -268,13 +268,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeQualification -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:02:02 IST" name="teardown" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@68267da0]" started-at="2024-10-13T22:11:08 IST" name="teardown" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_5_AddEmployeeQualification -->
       <class name="OrangeHRMTestcases.TC_3_EmployeeLogin">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:02:02 IST" name="setup" finished-at="2024-10-13T22:02:02 IST" duration-ms="2" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:11:08 IST" name="setup" finished-at="2024-10-13T22:11:08 IST" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -319,7 +319,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EmployeeLogin()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:02:02 IST" name="EmployeeLogin" finished-at="2024-10-13T22:02:02 IST" duration-ms="2" status="SKIP">
+        <test-method signature="EmployeeLogin()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:11:08 IST" name="EmployeeLogin" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.wd" is null]]>
@@ -357,13 +357,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:02:02 IST" name="teardown" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@623a8092]" started-at="2024-10-13T22:11:08 IST" name="teardown" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_3_EmployeeLogin -->
       <class name="OrangeHRMTestcases.TC_2_AddNewEmployee">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:02:02 IST" name="setup" finished-at="2024-10-13T22:02:02 IST" duration-ms="2" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:11:08 IST" name="setup" finished-at="2024-10-13T22:11:08 IST" duration-ms="1" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -408,7 +408,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddEmployee()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:02:02 IST" name="AddEmployee" finished-at="2024-10-13T22:02:02 IST" duration-ms="1" status="SKIP">
+        <test-method signature="AddEmployee()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:11:08 IST" name="AddEmployee" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <message>
               <![CDATA[Cannot invoke "org.openqa.selenium.WebDriver.get(String)" because "this.wd" is null]]>
@@ -446,7 +446,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployee -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:02:02 IST" name="teardown" finished-at="2024-10-13T22:02:02 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@175b9425]" started-at="2024-10-13T22:11:08 IST" name="teardown" finished-at="2024-10-13T22:11:08 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
