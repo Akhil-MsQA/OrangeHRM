@@ -4,10 +4,15 @@
 <listeners>
 		<listener class-name="OrangeHRMUtilities.Reporting" />
 	</listeners>
-    <test thread-count="5" name="Test">
   <parameter name="Browser" value="edge"></parameter>
+
+  <test thread-count="5" name="Test">
     <classes>
-      <class name="OrangeHRMTestcases.TC_1_LoginTestCases"/>
+      <class name="OrangeHRMTestcases.TC_5_AddEmployeeQualification"/>
+      <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo"/>
+      <class name="OrangeHRMTestcases.TC_3_EmployeeLogin"/>
+      <class name="OrangeHRMTestcases.TC_1_Admin_LoginTestCase"/>
+      <class name="OrangeHRMTestcases.TC_2_AddNewEmployee"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

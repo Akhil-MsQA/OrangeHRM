@@ -17,6 +17,9 @@ public class TC_3_EmployeeLogin extends baseClass {
 		LP.SetPassword(EmployeePassword);
 		LP.LoginButton();
 		LP.Validation("Raymond Neelamkavil");
+		LP.ProfileClick();
+		Thread.sleep(2000);
+		LP.Logout();
 		
 	
 		

@@ -22,6 +22,7 @@ public class TC_4_AddEmployeeInfo extends baseClass{
 		LP.LoginButton();
 		PersonalInfoPage PIP = new PersonalInfoPage(wd);
 		PIP.Info();
+		Thread.sleep(4000);
 		PIP.Nationality();
 		Thread.sleep(2000);
 		PIP.NationalValue();
