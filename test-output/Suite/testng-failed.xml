@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <parameter name="Browser" value="edge"/>
+  <parameter name="Browser" value="chrome"/>
   <listeners>
     <listener class-name="OrangeHRMUtilities.Reporting"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="OrangeHRMTestcases.TC_1_Admin_LoginTestCase">
-        <methods>
-          <include name="teardown"/>
-          <include name="Adminlogintest"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- OrangeHRMTestcases.TC_1_Admin_LoginTestCase -->
       <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo">
         <methods>
           <include name="teardown"/>
@@ -21,13 +14,6 @@
           <include name="setup"/>
         </methods>
       </class> <!-- OrangeHRMTestcases.TC_4_AddEmployeeInfo -->
-      <class name="OrangeHRMTestcases.TC_3_EmployeeLogin">
-        <methods>
-          <include name="teardown"/>
-          <include name="EmployeeLogin"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- OrangeHRMTestcases.TC_3_EmployeeLogin -->
       <class name="OrangeHRMTestcases.TC_2_AddNewEmployee">
         <methods>
           <include name="teardown"/>
@@ -35,13 +21,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- OrangeHRMTestcases.TC_2_AddNewEmployee -->
-      <class name="OrangeHRMTestcases.TC_5_AddEmployeeQualification">
+      <class name="OrangeHRMTestcases.TC_3_EmployeeLogin">
         <methods>
-          <include name="EmployeeQualification"/>
           <include name="teardown"/>
+          <include name="EmployeeLogin"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- OrangeHRMTestcases.TC_5_AddEmployeeQualification -->
+      </class> <!-- OrangeHRMTestcases.TC_3_EmployeeLogin -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

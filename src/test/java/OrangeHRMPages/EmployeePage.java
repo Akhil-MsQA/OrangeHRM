@@ -45,6 +45,8 @@ public class EmployeePage {
 	WebElement Checkbox;
 	@FindBy(xpath="//button[@type='submit']")
 	WebElement Save;
+	@FindBy(xpath="//div[@id='oxd-toaster_1']")
+	WebElement SuccessMsg;
 	
 	
 	public void PIM() {
@@ -101,6 +103,10 @@ public class EmployeePage {
 			Element.sendKeys(CPassword);
 			
 		}
+	}
+	public void SuccessMsg() {
+		String Element = SuccessMsg.getText();
+		System.out.println(Element);
 	}
 	public void save() throws InterruptedException {
 		Save.click();
