@@ -13,6 +13,7 @@
       <class name="OrangeHRMTestcases.TC_3_EmployeeLogin"/>
       <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo"/>
       <class name="OrangeHRMTestcases.TC_5_AddEmployeeQualification"/>
+      <class name="OrangeHRMTestcases.TC_6_AdminCheckingEmployee"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

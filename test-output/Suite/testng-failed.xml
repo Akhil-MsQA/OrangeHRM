@@ -7,27 +7,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo">
+      <class name="OrangeHRMTestcases.TC_6_AdminCheckingEmployee">
         <methods>
+          <include name="EmployeeChecking"/>
           <include name="teardown"/>
-          <include name="AddDetails"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- OrangeHRMTestcases.TC_4_AddEmployeeInfo -->
-      <class name="OrangeHRMTestcases.TC_2_AddNewEmployee">
-        <methods>
-          <include name="teardown"/>
-          <include name="AddEmployee"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- OrangeHRMTestcases.TC_2_AddNewEmployee -->
-      <class name="OrangeHRMTestcases.TC_3_EmployeeLogin">
-        <methods>
-          <include name="teardown"/>
-          <include name="EmployeeLogin"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- OrangeHRMTestcases.TC_3_EmployeeLogin -->
+      </class> <!-- OrangeHRMTestcases.TC_6_AdminCheckingEmployee -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
