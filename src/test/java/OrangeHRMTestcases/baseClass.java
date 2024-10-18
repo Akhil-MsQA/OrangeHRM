@@ -47,7 +47,7 @@ public class baseClass {
 	@Parameters("Browser")
 	@BeforeClass
 	public void setup(@Optional("chrome")String br) throws IOException {
-		FileInputStream File = new FileInputStream("C:\\Users\\akhil\\Documents\\TestData.xlsx");
+		FileInputStream File = new FileInputStream("C:\\Users\\akhil\\eclipse-workspace\\MavenProject\\QAAutomationFrameWork\\TestingData\\TestData.xlsx");
 		book = new XSSFWorkbook(File);
 		Sheet = book.getSheetAt(0);
 		Sheet2 = book.getSheetAt(1);

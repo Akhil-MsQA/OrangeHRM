@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-18T16:45:41 IST" name="Suite" finished-at="2024-10-18T16:51:38 IST" duration-ms="356258">
+  <suite started-at="2024-10-18T17:21:28 IST" name="Suite" finished-at="2024-10-18T17:27:30 IST" duration-ms="361596">
     <groups>
     </groups>
-    <test started-at="2024-10-18T16:45:41 IST" name="Test" finished-at="2024-10-18T16:51:38 IST" duration-ms="356258">
+    <test started-at="2024-10-18T17:21:28 IST" name="Test" finished-at="2024-10-18T17:27:30 IST" duration-ms="361596">
       <class name="OrangeHRMTestcases.TC_5_AddEmployeeQualification">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T16:49:05 IST" name="setup" finished-at="2024-10-18T16:49:11 IST" duration-ms="6164" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T17:24:48 IST" name="setup" finished-at="2024-10-18T17:24:56 IST" duration-ms="8071" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,17 +18,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EmployeeQualification()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T16:49:11 IST" name="EmployeeQualification" finished-at="2024-10-18T16:50:32 IST" duration-ms="81094" status="PASS">
+        <test-method signature="EmployeeQualification()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T17:24:56 IST" name="EmployeeQualification" finished-at="2024-10-18T17:26:18 IST" duration-ms="81678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeQualification -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T16:50:32 IST" name="teardown" finished-at="2024-10-18T16:50:32 IST" duration-ms="487" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_5_AddEmployeeQualification@5acf93bb]" started-at="2024-10-18T17:26:18 IST" name="teardown" finished-at="2024-10-18T17:26:18 IST" duration-ms="388" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_5_AddEmployeeQualification -->
       <class name="OrangeHRMTestcases.TC_4_AddEmployeeInfo">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T16:48:05 IST" name="setup" finished-at="2024-10-18T16:48:12 IST" duration-ms="7134" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T17:23:45 IST" name="setup" finished-at="2024-10-18T17:23:57 IST" duration-ms="12011" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,17 +39,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddDetails()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T16:48:12 IST" name="AddDetails" finished-at="2024-10-18T16:49:04 IST" duration-ms="52049" status="PASS">
+        <test-method signature="AddDetails()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T17:23:57 IST" name="AddDetails" finished-at="2024-10-18T17:24:48 IST" duration-ms="50198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddDetails -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T16:49:04 IST" name="teardown" finished-at="2024-10-18T16:49:05 IST" duration-ms="396" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_4_AddEmployeeInfo@1a18644]" started-at="2024-10-18T17:24:48 IST" name="teardown" finished-at="2024-10-18T17:24:48 IST" duration-ms="349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_4_AddEmployeeInfo -->
       <class name="OrangeHRMTestcases.TC_1_Admin_LoginTestCase">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T16:45:42 IST" name="setup" finished-at="2024-10-18T16:45:52 IST" duration-ms="10560" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T17:21:28 IST" name="setup" finished-at="2024-10-18T17:21:38 IST" duration-ms="9719" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -60,17 +60,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Adminlogintest()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T16:45:52 IST" name="Adminlogintest" finished-at="2024-10-18T16:46:09 IST" duration-ms="17090" status="PASS">
+        <test-method signature="Adminlogintest()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T17:21:38 IST" name="Adminlogintest" finished-at="2024-10-18T17:21:54 IST" duration-ms="16459" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Adminlogintest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T16:46:09 IST" name="teardown" finished-at="2024-10-18T16:46:10 IST" duration-ms="337" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_1_Admin_LoginTestCase@6283d8b8]" started-at="2024-10-18T17:21:54 IST" name="teardown" finished-at="2024-10-18T17:21:55 IST" duration-ms="310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_1_Admin_LoginTestCase -->
       <class name="OrangeHRMTestcases.TC_3_EmployeeLogin">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T16:47:30 IST" name="setup" finished-at="2024-10-18T16:47:40 IST" duration-ms="9572" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T17:23:08 IST" name="setup" finished-at="2024-10-18T17:23:21 IST" duration-ms="13243" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -81,17 +81,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EmployeeLogin()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T16:47:40 IST" name="EmployeeLogin" finished-at="2024-10-18T16:48:05 IST" duration-ms="24629" status="PASS">
+        <test-method signature="EmployeeLogin()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T17:23:21 IST" name="EmployeeLogin" finished-at="2024-10-18T17:23:43 IST" duration-ms="22019" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeLogin -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T16:48:05 IST" name="teardown" finished-at="2024-10-18T16:48:05 IST" duration-ms="365" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_3_EmployeeLogin@a530d0a]" started-at="2024-10-18T17:23:43 IST" name="teardown" finished-at="2024-10-18T17:23:45 IST" duration-ms="1916" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_3_EmployeeLogin -->
       <class name="OrangeHRMTestcases.TC_6_AdminCheckingEmployee">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T16:50:32 IST" name="setup" finished-at="2024-10-18T16:50:41 IST" duration-ms="8384" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T17:26:18 IST" name="setup" finished-at="2024-10-18T17:26:34 IST" duration-ms="15534" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -102,17 +102,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="EmployeeChecking()[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T16:50:41 IST" name="EmployeeChecking" finished-at="2024-10-18T16:51:37 IST" duration-ms="56635" status="PASS">
+        <test-method signature="EmployeeChecking()[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T17:26:34 IST" name="EmployeeChecking" finished-at="2024-10-18T17:27:29 IST" duration-ms="55729" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- EmployeeChecking -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T16:51:37 IST" name="teardown" finished-at="2024-10-18T16:51:38 IST" duration-ms="416" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_6_AdminCheckingEmployee@7e7be63f]" started-at="2024-10-18T17:27:29 IST" name="teardown" finished-at="2024-10-18T17:27:30 IST" duration-ms="322" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- OrangeHRMTestcases.TC_6_AdminCheckingEmployee -->
       <class name="OrangeHRMTestcases.TC_2_AddNewEmployee">
-        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T16:46:10 IST" name="setup" finished-at="2024-10-18T16:46:19 IST" duration-ms="9088" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T17:21:55 IST" name="setup" finished-at="2024-10-18T17:21:59 IST" duration-ms="4325" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,11 +123,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="AddEmployee()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T16:46:19 IST" name="AddEmployee" finished-at="2024-10-18T16:47:30 IST" duration-ms="71100" status="PASS">
+        <test-method signature="AddEmployee()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T17:21:59 IST" name="AddEmployee" finished-at="2024-10-18T17:23:08 IST" duration-ms="68723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddEmployee -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T16:47:30 IST" name="teardown" finished-at="2024-10-18T16:47:30 IST" duration-ms="442" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:OrangeHRMTestcases.TC_2_AddNewEmployee@2f217633]" started-at="2024-10-18T17:23:08 IST" name="teardown" finished-at="2024-10-18T17:23:08 IST" duration-ms="326" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

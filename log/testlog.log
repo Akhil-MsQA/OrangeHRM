@@ -1514,3 +1514,181 @@
 2024-10-18 16:51:33 INFO  baseClass:94 - Clicked on the profile
 2024-10-18 16:51:37 INFO  baseClass:99 - Successfully Logout
 2024-10-18 16:51:38 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:03:35 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:03:36 INFO  baseClass:23 - Entering the Admin Username
+2024-10-18 17:03:38 INFO  baseClass:28 - Entering the Admin Password
+2024-10-18 17:03:45 INFO  baseClass:34 - Clicked on the Login Button
+2024-10-18 17:03:45 INFO  baseClass:38 - Clicked on the Profile
+2024-10-18 17:03:48 INFO  baseClass:43 - Successfully Logged Out
+2024-10-18 17:03:52 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:04:00 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:04:04 INFO  baseClass:26 - Entering Admin Username
+2024-10-18 17:04:06 INFO  baseClass:31 - Entering the Admin Password
+2024-10-18 17:04:08 INFO  baseClass:36 - Clicked the Login Button
+2024-10-18 17:04:12 INFO  baseClass:42 - Clicked on the PIM
+2024-10-18 17:04:16 INFO  baseClass:47 - Clicked on the AddEmployee tab
+2024-10-18 17:04:21 INFO  baseClass:52 - Entering Employee first name
+2024-10-18 17:04:25 INFO  baseClass:57 - Entering Employee Middle Name
+2024-10-18 17:04:30 INFO  baseClass:62 - Entering Employee Last Name
+2024-10-18 17:04:38 INFO  baseClass:67 - Entering Employee ID Number
+2024-10-18 17:04:43 INFO  baseClass:72 - Clicked on the CheckBox
+2024-10-18 17:04:45 INFO  baseClass:76 - Entering Employee Username
+2024-10-18 17:04:49 INFO  baseClass:82 - Entering Employee Password
+2024-10-18 17:04:54 INFO  baseClass:87 - Entering Employee Password Again
+2024-10-18 17:04:54 INFO  baseClass:91 - Clicked on the Save Button
+2024-10-18 17:05:01 INFO  baseClass:96 - Clicked on the Profile icon
+2024-10-18 17:05:09 INFO  baseClass:102 - SuccessFully Logged Out
+2024-10-18 17:05:10 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:05:18 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:05:23 INFO  baseClass:21 - Entering the Employee Username
+2024-10-18 17:05:26 INFO  baseClass:26 - Entering the Employee Password
+2024-10-18 17:05:30 INFO  baseClass:31 - Clicked On the LoginButton
+2024-10-18 17:05:33 INFO  baseClass:36 - Validating the Username is Correct
+2024-10-18 17:05:33 INFO  baseClass:40 - Clicking on the Profile Icon
+2024-10-18 17:05:41 INFO  baseClass:46 - Successfully Logged Out
+2024-10-18 17:05:41 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:05:50 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:05:54 INFO  baseClass:26 - Entering the Username
+2024-10-18 17:05:58 INFO  baseClass:30 - Entering the Password
+2024-10-18 17:06:01 INFO  baseClass:35 - Clicked on the login Button
+2024-10-18 17:06:02 INFO  baseClass:41 - Clicked on Information
+2024-10-18 17:06:11 INFO  baseClass:47 - Clicked on the Nationality
+2024-10-18 17:06:14 INFO  baseClass:52 - Selected the Nationality 
+2024-10-18 17:06:17 INFO  baseClass:57 - Clicked on the Marital Status
+2024-10-18 17:06:20 INFO  baseClass:62 - Selected Marital Status value
+2024-10-18 17:06:24 INFO  baseClass:67 - Selected the Gender
+2024-10-18 17:06:29 INFO  baseClass:72 - Clicked on Save
+2024-10-18 17:06:33 INFO  baseClass:77 - Clicked on the BloodGroup
+2024-10-18 17:06:37 INFO  baseClass:82 - Selected the BloodGroup Value
+2024-10-18 17:06:40 INFO  baseClass:87 - Clicked on the Save Button
+2024-10-18 17:06:40 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:06:49 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:06:53 INFO  baseClass:37 - Entering the UserName
+2024-10-18 17:06:56 INFO  baseClass:42 - Entering the Password
+2024-10-18 17:07:01 INFO  baseClass:47 - Clicked on the Login Button
+2024-10-18 17:07:05 INFO  baseClass:53 - Clicked on the Personal Information tab
+2024-10-18 17:07:09 INFO  baseClass:59 - Clicked on the Qualification Link
+2024-10-18 17:07:12 INFO  baseClass:64 - Clicked on the WorkExperience AddButton
+2024-10-18 17:07:16 INFO  baseClass:69 - Entered the Company Name
+2024-10-18 17:07:19 INFO  baseClass:74 - Entered the Job Position
+2024-10-18 17:07:22 INFO  baseClass:79 - Entered the FromDate
+2024-10-18 17:07:26 INFO  baseClass:84 - Entered the ToDate
+2024-10-18 17:07:31 INFO  baseClass:89 - Clicked on the Save Button
+2024-10-18 17:07:33 INFO  baseClass:94 - Clicked on the Education Add Button
+2024-10-18 17:07:38 INFO  baseClass:99 - Clicked on the Education Level
+2024-10-18 17:07:40 INFO  baseClass:104 - Entered the Education Level
+2024-10-18 17:07:43 INFO  baseClass:109 - Entered the Institution name
+2024-10-18 17:07:47 INFO  baseClass:114 - Entered the Course Name
+2024-10-18 17:07:50 INFO  baseClass:119 - Entered the Completed Year
+2024-10-18 17:07:54 INFO  baseClass:124 - Entered the CGPA
+2024-10-18 17:07:57 INFO  baseClass:129 - Entered the From Date
+2024-10-18 17:08:00 INFO  baseClass:134 - Entered the To Date
+2024-10-18 17:08:04 INFO  baseClass:139 - Clicked the Save Button
+2024-10-18 17:08:07 INFO  baseClass:144 - Clicked on the Profile
+2024-10-18 17:08:11 INFO  baseClass:149 - Logout Successfully
+2024-10-18 17:08:11 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:08:20 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:08:22 INFO  baseClass:33 - Entered the Admin Username
+2024-10-18 17:08:25 INFO  baseClass:38 - Entered the Admin Password
+2024-10-18 17:08:31 INFO  baseClass:43 - Clicked on the Login Button
+2024-10-18 17:08:37 INFO  baseClass:49 - Clicked on the PIM
+2024-10-18 17:08:42 INFO  baseClass:54 - Checked the EmployeeList is selected OR Not
+2024-10-18 17:08:48 INFO  baseClass:60 - Entered the Employee Name
+2024-10-18 17:08:51 INFO  baseClass:65 - Clicked on the Submit button
+2024-10-18 17:08:55 INFO  baseClass:70 - Displayed the Msg
+2024-10-18 17:08:58 INFO  baseClass:75 - Validated the Id is Same
+2024-10-18 17:09:02 INFO  baseClass:81 - Clicked on the Delete Button
+2024-10-18 17:09:06 INFO  baseClass:86 - Confirm Delete
+2024-10-18 17:09:11 INFO  baseClass:90 - The Record was deleted Successfully
+2024-10-18 17:09:14 INFO  baseClass:94 - Clicked on the profile
+2024-10-18 17:09:19 INFO  baseClass:99 - Successfully Logout
+2024-10-18 17:09:19 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:21:38 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:21:39 INFO  baseClass:23 - Entering the Admin Username
+2024-10-18 17:21:41 INFO  baseClass:28 - Entering the Admin Password
+2024-10-18 17:21:48 INFO  baseClass:34 - Clicked on the Login Button
+2024-10-18 17:21:48 INFO  baseClass:38 - Clicked on the Profile
+2024-10-18 17:21:51 INFO  baseClass:43 - Successfully Logged Out
+2024-10-18 17:21:55 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:21:59 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:22:02 INFO  baseClass:26 - Entering Admin Username
+2024-10-18 17:22:04 INFO  baseClass:31 - Entering the Admin Password
+2024-10-18 17:22:07 INFO  baseClass:36 - Clicked the Login Button
+2024-10-18 17:22:10 INFO  baseClass:42 - Clicked on the PIM
+2024-10-18 17:22:15 INFO  baseClass:47 - Clicked on the AddEmployee tab
+2024-10-18 17:22:19 INFO  baseClass:52 - Entering Employee first name
+2024-10-18 17:22:23 INFO  baseClass:57 - Entering Employee Middle Name
+2024-10-18 17:22:28 INFO  baseClass:62 - Entering Employee Last Name
+2024-10-18 17:22:36 INFO  baseClass:67 - Entering Employee ID Number
+2024-10-18 17:22:41 INFO  baseClass:72 - Clicked on the CheckBox
+2024-10-18 17:22:43 INFO  baseClass:76 - Entering Employee Username
+2024-10-18 17:22:47 INFO  baseClass:82 - Entering Employee Password
+2024-10-18 17:22:52 INFO  baseClass:87 - Entering Employee Password Again
+2024-10-18 17:22:52 INFO  baseClass:91 - Clicked on the Save Button
+2024-10-18 17:22:59 INFO  baseClass:96 - Clicked on the Profile icon
+2024-10-18 17:23:08 INFO  baseClass:102 - SuccessFully Logged Out
+2024-10-18 17:23:08 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:23:21 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:23:26 INFO  baseClass:21 - Entering the Employee Username
+2024-10-18 17:23:29 INFO  baseClass:26 - Entering the Employee Password
+2024-10-18 17:23:32 INFO  baseClass:31 - Clicked On the LoginButton
+2024-10-18 17:23:36 INFO  baseClass:36 - Validating the Username is Correct
+2024-10-18 17:23:36 INFO  baseClass:40 - Clicking on the Profile Icon
+2024-10-18 17:23:43 INFO  baseClass:46 - Successfully Logged Out
+2024-10-18 17:23:44 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:23:57 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:24:02 INFO  baseClass:26 - Entering the Username
+2024-10-18 17:24:05 INFO  baseClass:30 - Entering the Password
+2024-10-18 17:24:08 INFO  baseClass:35 - Clicked on the login Button
+2024-10-18 17:24:10 INFO  baseClass:41 - Clicked on Information
+2024-10-18 17:24:18 INFO  baseClass:47 - Clicked on the Nationality
+2024-10-18 17:24:21 INFO  baseClass:52 - Selected the Nationality 
+2024-10-18 17:24:25 INFO  baseClass:57 - Clicked on the Marital Status
+2024-10-18 17:24:28 INFO  baseClass:62 - Selected Marital Status value
+2024-10-18 17:24:31 INFO  baseClass:67 - Selected the Gender
+2024-10-18 17:24:36 INFO  baseClass:72 - Clicked on Save
+2024-10-18 17:24:41 INFO  baseClass:77 - Clicked on the BloodGroup
+2024-10-18 17:24:44 INFO  baseClass:82 - Selected the BloodGroup Value
+2024-10-18 17:24:47 INFO  baseClass:87 - Clicked on the Save Button
+2024-10-18 17:24:48 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:24:56 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:25:00 INFO  baseClass:37 - Entering the UserName
+2024-10-18 17:25:03 INFO  baseClass:42 - Entering the Password
+2024-10-18 17:25:06 INFO  baseClass:47 - Clicked on the Login Button
+2024-10-18 17:25:12 INFO  baseClass:53 - Clicked on the Personal Information tab
+2024-10-18 17:25:15 INFO  baseClass:59 - Clicked on the Qualification Link
+2024-10-18 17:25:19 INFO  baseClass:64 - Clicked on the WorkExperience AddButton
+2024-10-18 17:25:22 INFO  baseClass:69 - Entered the Company Name
+2024-10-18 17:25:26 INFO  baseClass:74 - Entered the Job Position
+2024-10-18 17:25:29 INFO  baseClass:79 - Entered the FromDate
+2024-10-18 17:25:32 INFO  baseClass:84 - Entered the ToDate
+2024-10-18 17:25:38 INFO  baseClass:89 - Clicked on the Save Button
+2024-10-18 17:25:40 INFO  baseClass:94 - Clicked on the Education Add Button
+2024-10-18 17:25:44 INFO  baseClass:99 - Clicked on the Education Level
+2024-10-18 17:25:47 INFO  baseClass:104 - Entered the Education Level
+2024-10-18 17:25:50 INFO  baseClass:109 - Entered the Institution name
+2024-10-18 17:25:53 INFO  baseClass:114 - Entered the Course Name
+2024-10-18 17:25:57 INFO  baseClass:119 - Entered the Completed Year
+2024-10-18 17:26:00 INFO  baseClass:124 - Entered the CGPA
+2024-10-18 17:26:03 INFO  baseClass:129 - Entered the From Date
+2024-10-18 17:26:07 INFO  baseClass:134 - Entered the To Date
+2024-10-18 17:26:10 INFO  baseClass:139 - Clicked the Save Button
+2024-10-18 17:26:13 INFO  baseClass:144 - Clicked on the Profile
+2024-10-18 17:26:17 INFO  baseClass:149 - Logout Successfully
+2024-10-18 17:26:18 INFO  baseClass:81 - Clossing the Browser
+2024-10-18 17:26:34 INFO  baseClass:67 - The URL is Opening
+2024-10-18 17:26:35 INFO  baseClass:33 - Entered the Admin Username
+2024-10-18 17:26:39 INFO  baseClass:38 - Entered the Admin Password
+2024-10-18 17:26:43 INFO  baseClass:43 - Clicked on the Login Button
+2024-10-18 17:26:48 INFO  baseClass:49 - Clicked on the PIM
+2024-10-18 17:26:52 INFO  baseClass:54 - Checked the EmployeeList is selected OR Not
+2024-10-18 17:26:59 INFO  baseClass:60 - Entered the Employee Name
+2024-10-18 17:27:02 INFO  baseClass:65 - Clicked on the Submit button
+2024-10-18 17:27:05 INFO  baseClass:70 - Displayed the Msg
+2024-10-18 17:27:09 INFO  baseClass:75 - Validated the Id is Same
+2024-10-18 17:27:13 INFO  baseClass:81 - Clicked on the Delete Button
+2024-10-18 17:27:16 INFO  baseClass:86 - Confirm Delete
+2024-10-18 17:27:22 INFO  baseClass:90 - The Record was deleted Successfully
+2024-10-18 17:27:25 INFO  baseClass:94 - Clicked on the profile
+2024-10-18 17:27:29 INFO  baseClass:99 - Successfully Logout
+2024-10-18 17:27:29 INFO  baseClass:81 - Clossing the Browser

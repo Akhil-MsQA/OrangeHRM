@@ -46,7 +46,7 @@ public class TC_1_Admin_LoginTestCase extends baseClass{
 		
 		XSSFRow row = Sheet.getRow(1);
 		row.createCell(12).setCellValue("SuccessFullyLogin");
-		FileOutputStream Fout = new FileOutputStream("C:\\Users\\akhil\\Documents\\TestData.xlsx");
+		FileOutputStream Fout = new FileOutputStream("C:\\Users\\akhil\\eclipse-workspace\\MavenProject\\QAAutomationFrameWork\\TestingData\\TestData.xlsx");
 		   book.write(Fout);
 		   book.close();
 		
