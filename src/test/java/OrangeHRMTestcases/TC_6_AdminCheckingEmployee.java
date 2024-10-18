@@ -76,18 +76,23 @@ public class TC_6_AdminCheckingEmployee extends baseClass{
 		ScreenShot("T6Validation.png");   
 
 		ESP.Delete();
+		ScreenShot("T6Delete.png");   
 		Thread.sleep(4000);
 		logger.info("Clicked on the Delete Button");
-		ScreenShot("T6Delete.png");   
 
 		ESP.ConfirmMethod();
+		ScreenShot("T6ConfirmDelete.png");   
 		Thread.sleep(3000);
 		logger.info("Confirm Delete");
-		ScreenShot("T6ConfirmDelete.png");   
 
 		ESP.UpdateMessage();
 		Thread.sleep(5000);
+		logger.info("The Record was deleted Successfully");
 		ScreenShot("T6DeleteMessage.png");   
+		LP.ProfileClick();
+		Thread.sleep(3000);
+		logger.info("Clicked on the profile");
+		ScreenShot("T6Profile.png");
 		
 		LP.Logout();
 		Thread.sleep(3000);

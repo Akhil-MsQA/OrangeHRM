@@ -138,6 +138,16 @@ public class TC_5_AddEmployeeQualification extends baseClass{
 		Thread.sleep(3000);
 		logger.info("Clicked the Save Button");
 		ScreenShot("T5Save1.png");   
+		
+		LP.ProfileClick();
+		Thread.sleep(3000);
+		logger.info("Clicked on the Profile");
+		ScreenShot("T5ProfileClick.png");
+		
+		LP.Logout();
+		Thread.sleep(3000);
+		logger.info("Logout Successfully");
+		ScreenShot("T5Logout.png");
 
 		Row row = Sheet2.getRow(5);
 		row.createCell(11).setCellValue("Qualification Details Added");

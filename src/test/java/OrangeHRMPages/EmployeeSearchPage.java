@@ -4,6 +4,7 @@ import java.util.List;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -64,6 +65,8 @@ public class EmployeeSearchPage {
 		Submit.click();
 	}
 	public void Message() {
+		JavascriptExecutor Js = (JavascriptExecutor)wd;
+        Js.executeScript("arguments[0].scrollIntoView(true);",TxtMsg);
 		String Msg = TxtMsg.getText();
 		if (Msg.equals("No Records Found")){
 			System.out.println("Sorry Name is not Found.........");
@@ -91,10 +94,11 @@ public class EmployeeSearchPage {
 		
 		}
 	public void UpdateMessage() {
+		JavascriptExecutor Js = (JavascriptExecutor)wd;
+        Js.executeScript("arguments[0].scrollIntoView(true);",TxtMsg);
 		String Msg = TxtMsg.getText();
 		if (Msg.equals("No Records Found")){
 			System.out.println("The Data is Successfully Deleted");
-			wd.close();
 		}
 	}
 }
